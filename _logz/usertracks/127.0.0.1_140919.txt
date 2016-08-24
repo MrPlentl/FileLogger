@@ -1,0 +1,281 @@
+15:35:40 Array Values:
+15:35:40    Web = Brandon
+15:35:40    Boss = Daniel
+15:35:40    Designer = Jessica
+15:35:40    Writer = Sarah
+15:35:40    Designer2 = Anthony
+15:35:41 User Agent Values:
+15:35:41    agent_name = Chrome
+15:35:41    agent_version = 37.0.2062.120
+15:35:41    os_type = Windows
+15:35:41    os_name = Windows 7
+15:35:41 [WARN] This is a normal Error!
+15:35:41 POST Values:
+15:35:41 GET Values:
+15:35:41 [SQL Action] Check SQL Logs
+15:35:41 [TRACE]1
+15:35:41 [TRACE]2
+15:35:41 [TRACE]3
+15:35:41 [TRACE]4
+15:35:41 [TRACE]5
+15:35:41 [TRACE]6
+15:55:38 Array Values:
+15:55:38    Web = Brandon
+15:55:38    Boss = Daniel
+15:55:38    Designer = Jessica
+15:55:38    Writer = Sarah
+15:55:38    Designer2 = Anthony
+15:55:38 User Agent Values:
+15:55:38    agent_name = Chrome
+15:55:38    agent_version = 37.0.2062.120
+15:55:38    os_type = Windows
+15:55:38    os_name = Windows 7
+15:55:38 [WARN] This is a normal Error!
+15:55:38 POST Values:
+15:55:38 GET Values:
+15:55:38 [SQL Action] Check SQL Logs
+15:55:38 [TRACE]1
+15:55:38 [TRACE]2
+15:55:38 [TRACE]3
+15:55:38 [TRACE]4
+15:55:38 [TRACE]5
+15:55:38 [TRACE]6
+16:00:18 Send Mail!
+16:00:18 Array Values:
+16:00:18    Web = Brandon
+16:00:18    Boss = Daniel
+16:00:18    Designer = Jessica
+16:00:18    Writer = Sarah
+16:00:18    Designer2 = Anthony
+16:00:18 User Agent Values:
+16:00:18    agent_name = Chrome
+16:00:18    agent_version = 37.0.2062.120
+16:00:18    os_type = Windows
+16:00:18    os_name = Windows 7
+16:00:18 [WARN] This is a normal Error!
+16:00:18 POST Values:
+16:00:18 GET Values:
+16:00:18 [SQL Action] Check SQL Logs
+16:00:18 [TRACE]1
+16:00:18 [TRACE]2
+16:00:18 [TRACE]3
+16:00:18 [TRACE]4
+16:00:18 [TRACE]5
+16:00:18 [TRACE]6
+16:00:51 Send Mail!
+16:00:51 Array Values:
+16:00:51    Web = Brandon
+16:00:51    Boss = Daniel
+16:00:51    Designer = Jessica
+16:00:51    Writer = Sarah
+16:00:51    Designer2 = Anthony
+16:00:52 User Agent Values:
+16:00:52    agent_name = Chrome
+16:00:52    agent_version = 37.0.2062.120
+16:00:52    os_type = Windows
+16:00:52    os_name = Windows 7
+16:00:52 [WARN] This is a normal Error!
+16:00:52 POST Values:
+16:00:52 GET Values:
+16:00:52 [SQL Action] Check SQL Logs
+16:00:52 [TRACE]1
+16:00:52 [TRACE]2
+16:00:52 [TRACE]3
+16:00:52 [TRACE]4
+16:00:52 [TRACE]5
+16:00:52 [TRACE]6
+16:11:05 Error EMAIL sent.
+16:11:05 Array Values:
+16:11:05    Web = Brandon
+16:11:05    Boss = Daniel
+16:11:05    Designer = Jessica
+16:11:05    Writer = Sarah
+16:11:05    Designer2 = Anthony
+16:11:06 User Agent Values:
+16:11:06    agent_name = Chrome
+16:11:06    agent_version = 37.0.2062.120
+16:11:06    os_type = Windows
+16:11:06    os_name = Windows 7
+16:11:06 [WARN] This is a normal Error!
+16:11:06 POST Values:
+16:11:06 GET Values:
+16:11:06 [SQL Action] Check SQL Logs
+16:11:06 [TRACE]1
+16:11:06 [TRACE]2
+16:11:06 [TRACE]3
+16:11:06 [TRACE]4
+16:11:06 [TRACE]5
+16:11:06 [TRACE]6
+16:16:29 Error EMAIL sent.
+16:16:29 Array Values:
+16:16:29    Web = Brandon
+16:16:29    Boss = Daniel
+16:16:29    Designer = Jessica
+16:16:29    Writer = Sarah
+16:16:29    Designer2 = Anthony
+16:16:29 User Agent Values:
+16:16:29    agent_name = Chrome
+16:16:29    agent_version = 37.0.2062.120
+16:16:29    os_type = Windows
+16:16:29    os_name = Windows 7
+16:16:29 [WARN] This is a normal Error!
+16:16:29 POST Values:
+16:16:29 GET Values:
+16:16:29 [SQL Action] Check SQL Logs
+16:16:29 [TRACE]1
+16:16:29 [TRACE]2
+16:16:29 [TRACE]3
+16:16:29 [TRACE]4
+16:16:29 [TRACE]5
+16:16:29 [TRACE]6
+16:19:42 Error EMAIL sent.
+16:19:42 Array Values:
+16:19:42    Web = Brandon
+16:19:42    Boss = Daniel
+16:19:42    Designer = Jessica
+16:19:42    Writer = Sarah
+16:19:42    Designer2 = Anthony
+16:19:42 User Agent Values:
+16:19:42    agent_name = Chrome
+16:19:42    agent_version = 37.0.2062.120
+16:19:42    os_type = Windows
+16:19:42    os_name = Windows 7
+16:19:42 [WARN] This is a normal Error!
+16:19:42 POST Values:
+16:19:42 GET Values:
+16:19:42 [SQL Action] Check SQL Logs
+16:19:42 [TRACE]1
+16:19:42 [TRACE]2
+16:19:42 [TRACE]3
+16:19:42 [TRACE]4
+16:19:42 [TRACE]5
+16:19:42 [TRACE]6
+16:27:01 EMAIL sent.
+16:27:01 Array Values:
+16:27:01    Web = Brandon
+16:27:01    Boss = Daniel
+16:27:01    Designer = Jessica
+16:27:01    Writer = Sarah
+16:27:01    Designer2 = Anthony
+16:27:01 User Agent Values:
+16:27:01    agent_name = Chrome
+16:27:01    agent_version = 37.0.2062.120
+16:27:01    os_type = Windows
+16:27:01    os_name = Windows 7
+16:27:01 [WARN] This is a normal Error!
+16:27:01 POST Values:
+16:27:01 GET Values:
+16:27:01 [SQL Action] Check SQL Logs
+16:27:01 [TRACE]1
+16:27:01 [TRACE]2
+16:27:01 [TRACE]3
+16:27:01 [TRACE]4
+16:27:01 [TRACE]5
+16:27:01 [TRACE]6
+16:30:36 User Click  -> [test_button] => MyButton
+16:30:41 User Entry  -> [test_text] => Brandon
+16:30:42 User Entry  -> [test_text] => 
+16:30:51 User Entry  -> [test_text] => Plentl
+16:30:55 User Entry  -> [CCnum] => 544446542132432454
+16:31:06 User Entry  -> [CCnum] => 544446542132432454
+16:31:06 User Select -> [checkbox1] Checked => true
+16:31:07 User Select -> [Myradio1] Radio Selected => true
+16:31:08 User Select -> [Myradio2] Radio Selected => true
+16:31:09 User Select -> [countries] Drop Down Selected => Albania
+16:31:09 This user clicked a button they were not suppose to.
+16:31:09 User Click  -> [test_log] => Do Not Click
+16:31:11 EMAIL sent.
+16:31:11 Array Values:
+16:31:11    Web = Brandon
+16:31:11    Boss = Daniel
+16:31:11    Designer = Jessica
+16:31:11    Writer = Sarah
+16:31:11    Designer2 = Anthony
+16:31:12 User Agent Values:
+16:31:12    agent_name = Chrome
+16:31:12    agent_version = 37.0.2062.120
+16:31:12    os_type = Windows
+16:31:12    os_name = Windows 7
+16:31:12 [WARN] This is a normal Error!
+16:31:12 POST Values:
+16:31:12    fName = Brandon
+16:31:12    X_test_text = ******
+16:31:12    CCnum = ****2454
+16:31:12    checkbox1 = Checkbox 1
+16:31:12    radio1 = Radio 2
+16:31:12    countries = Albania
+16:31:12    submit = submit
+16:31:12 GET Values:
+16:31:12 [SQL Action] Check SQL Logs
+16:31:12 [TRACE]1
+16:31:12 [TRACE]2
+16:31:12 [TRACE]3
+16:31:12 [TRACE]4
+16:31:12 [TRACE]5
+16:31:12 [TRACE]6
+16:36:45 EMAIL sent.
+16:36:45 Array Values:
+16:36:45    Web = Brandon
+16:36:45    Boss = Daniel
+16:36:45    Designer = Jessica
+16:36:45    Writer = Sarah
+16:36:45    Designer2 = Anthony
+16:36:46 User Agent Values:
+16:36:46    agent_name = Chrome
+16:36:46    agent_version = 37.0.2062.120
+16:36:46    os_type = Windows
+16:36:46    os_name = Windows 7
+16:36:46 [WARN] This is a normal Error!
+16:36:46 POST Values:
+16:36:46 GET Values:
+16:36:46 [SQL Action] Check SQL Logs
+16:36:46 [TRACE]1
+16:36:46 [TRACE]2
+16:36:46 [TRACE]3
+16:36:46 [TRACE]4
+16:36:46 [TRACE]5
+16:36:46 [TRACE]6
+16:37:51 EMAIL sent.
+16:37:51 Array Values:
+16:37:51    Web = Brandon
+16:37:51    Boss = Daniel
+16:37:51    Designer = Jessica
+16:37:51    Writer = Sarah
+16:37:51    Designer2 = Anthony
+16:37:51 User Agent Values:
+16:37:51    agent_name = Chrome
+16:37:51    agent_version = 37.0.2062.120
+16:37:51    os_type = Windows
+16:37:51    os_name = Windows 7
+16:37:51 [WARN] This is a normal Error!
+16:37:51 POST Values:
+16:37:51 GET Values:
+16:37:51 [SQL Action] Check SQL Logs
+16:37:51 [TRACE]1
+16:37:51 [TRACE]2
+16:37:51 [TRACE]3
+16:37:51 [TRACE]4
+16:37:51 [TRACE]5
+16:37:51 [TRACE]6
+16:41:02 EMAIL sent.
+16:41:02 Array Values:
+16:41:02    Web = Brandon
+16:41:02    Boss = Daniel
+16:41:02    Designer = Jessica
+16:41:02    Writer = Sarah
+16:41:02    Designer2 = Anthony
+16:41:02 User Agent Values:
+16:41:02    agent_name = Chrome
+16:41:02    agent_version = 37.0.2062.120
+16:41:02    os_type = Windows
+16:41:02    os_name = Windows 7
+16:41:02 [WARN] This is a normal Error!
+16:41:02 POST Values:
+16:41:02 GET Values:
+16:41:02 [SQL Action] Check SQL Logs
+16:41:02 [TRACE]1
+16:41:02 [TRACE]2
+16:41:02 [TRACE]3
+16:41:02 [TRACE]4
+16:41:02 [TRACE]5
+16:41:02 [TRACE]6

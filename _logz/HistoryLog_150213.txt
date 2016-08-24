@@ -1,0 +1,52 @@
+15:53:28 [10.200.27.29] Array Values:
+15:53:28 [10.200.27.29]    Web = Brandon
+15:53:28 [10.200.27.29]    Boss = Daniel
+15:53:28 [10.200.27.29]    Designer = Jessica
+15:53:28 [10.200.27.29]    Writer = Sarah
+15:53:28 [10.200.27.29]    Designer2 = Anthony
+15:53:29 [10.200.27.29] User Agent Values:
+15:53:29 [10.200.27.29]    agent_name = Chrome
+15:53:29 [10.200.27.29]    agent_version = 40.0.2214.111
+15:53:29 [10.200.27.29]    os_type = Windows
+15:53:29 [10.200.27.29]    os_name = Windows 7
+15:53:29 [10.200.27.29] [WARN] This is a normal Error!
+15:53:29 [10.200.27.29] No input submitted
+15:53:29 [10.200.27.29] [SQL Action] Check SQL Logs
+15:53:39 [10.200.27.29] User Click  -> [test_button] => MyButton
+15:53:47 [10.200.27.29] User Entry  -> [test_text] => Brandon
+15:54:04 [10.200.27.29] User Entry  -> [X_test_text] => ****ase.
+15:54:14 [10.200.27.29] User Entry  -> [CCnum] => ****3456
+15:54:17 [10.200.27.29] User Select -> [checkbox1] Checked => true
+15:54:20 [10.200.27.29] User Select -> [checkbox1] Checked => false
+15:54:23 [10.200.27.29] User Select -> [Myradio1] Radio Selected => true
+15:54:25 [10.200.27.29] User Select -> [Myradio2] Radio Selected => true
+15:54:36 [10.200.27.29] User Select -> [Myradio1] Radio Selected => true
+15:54:38 [10.200.27.29] User Select -> [countries] Drop Down Selected => Afganistain
+15:54:42 [10.200.27.29] User Select -> [countries] Drop Down Selected => Albania
+15:54:46 [10.200.27.29] This user clicked a button they were not suppose to.
+15:54:46 [10.200.27.29] User Click  -> [test_log] => Do Not Click
+15:55:10 [10.200.27.29] This user clicked a button they were not suppose to.
+15:55:10 [10.200.27.29] User Click  -> [test_log] => Do Not Click
+15:55:17 [10.200.27.29] Array Values:
+15:55:17 [10.200.27.29]    Web = Brandon
+15:55:17 [10.200.27.29]    Boss = Daniel
+15:55:17 [10.200.27.29]    Designer = Jessica
+15:55:17 [10.200.27.29]    Writer = Sarah
+15:55:17 [10.200.27.29]    Designer2 = Anthony
+15:55:18 [10.200.27.29] User Agent Values:
+15:55:18 [10.200.27.29]    agent_name = Chrome
+15:55:18 [10.200.27.29]    agent_version = 40.0.2214.111
+15:55:18 [10.200.27.29]    os_type = Windows
+15:55:18 [10.200.27.29]    os_name = Windows 7
+15:55:18 [10.200.27.29] [WARN] This is a normal Error!
+15:55:18 [10.200.27.29] POST Values:
+15:55:18 [10.200.27.29]    fName = Brandon
+15:55:18 [10.200.27.29]    X_test_text = **********************ase.
+15:55:18 [10.200.27.29]    CCnum = ****3456
+15:55:18 [10.200.27.29]    radio1 = Radio 1
+15:55:18 [10.200.27.29]    countries = Albania
+15:55:18 [10.200.27.29]    submit = submit
+15:55:18 [10.200.27.29] [SQL Action] Check SQL Logs
+16:07:13 [10.200.27.29] User Click  -> [test_button] => MyButton
+16:07:38 [10.200.27.29] This user clicked a button they were not suppose to.
+16:07:38 [10.200.27.29] User Click  -> [test_log] => Do Not Click

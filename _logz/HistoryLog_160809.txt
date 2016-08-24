@@ -1,0 +1,109 @@
+11:18:02 [::1] Array Values:
+11:18:02 [::1]    Web = Brandon
+11:18:02 [::1]    Boss = Daniel
+11:18:02 [::1]    Designer = Jessica
+11:18:02 [::1]    Writer = Sarah
+11:18:02 [::1]    Designer2 = Anthony
+11:18:03 [::1] User Agent Values:
+11:18:03 [::1]    agent_name = Chrome
+11:18:03 [::1]    agent_version = 52.0.2743.116
+11:18:03 [::1]    os_type = Windows
+11:18:03 [::1]    os_name = Windows 10
+11:18:03 [::1] [WARN] This is a normal Error!
+11:18:03 [::1] No input submitted
+11:18:03 [::1] [SQL Action] Check SQL Logs
+11:18:48 [::1] User Click  -> [test_button] => MyButton
+11:18:51 [::1] Array Values:
+11:18:51 [::1]    Web = Brandon
+11:18:51 [::1]    Boss = Daniel
+11:18:51 [::1]    Designer = Jessica
+11:18:51 [::1]    Writer = Sarah
+11:18:51 [::1]    Designer2 = Anthony
+11:18:51 [::1] User Agent Values:
+11:18:51 [::1]    agent_name = Chrome
+11:18:51 [::1]    agent_version = 52.0.2743.116
+11:18:51 [::1]    os_type = Windows
+11:18:51 [::1]    os_name = Windows 10
+11:18:51 [::1] [WARN] This is a normal Error!
+11:18:51 [::1] No input submitted
+11:18:51 [::1] [SQL Action] Check SQL Logs
+11:26:30 [127.0.0.1] Array Values:
+11:26:30 [127.0.0.1]    Web = Brandon
+11:26:30 [127.0.0.1]    Boss = Daniel
+11:26:30 [127.0.0.1]    Designer = Jessica
+11:26:30 [127.0.0.1]    Writer = Sarah
+11:26:30 [127.0.0.1]    Designer2 = Anthony
+11:26:31 [127.0.0.1] Array Values:
+11:26:31 [127.0.0.1]    Web = Brandon
+11:26:31 [127.0.0.1]    Boss = Daniel
+11:26:31 [127.0.0.1]    Designer = Jessica
+11:26:31 [127.0.0.1]    Writer = Sarah
+11:26:31 [127.0.0.1]    Designer2 = Anthony
+11:26:46 [127.0.0.1] User Agent Values:
+11:26:46 [127.0.0.1]    agent_name = Chrome
+11:26:46 [127.0.0.1] User Agent Values:
+11:26:46 [127.0.0.1]    agent_version = 52.0.2743.116
+11:26:46 [127.0.0.1]    os_type = Windows
+11:26:46 [127.0.0.1]    agent_version = 52.0.2743.116
+11:26:46 [127.0.0.1]    os_name = Windows 10
+11:26:46 [127.0.0.1]    os_type = Windows
+11:26:46 [127.0.0.1]    os_name = Windows 10
+11:26:46 [127.0.0.1] [WARN] This is a normal Error!
+11:26:46 [127.0.0.1] [WARN] This is a normal Error!
+11:26:46 [127.0.0.1] No input submitted
+11:26:46 [127.0.0.1] [SQL Action] Check SQL Logs
+11:26:46 [127.0.0.1] [SQL Action] Check SQL Logs
+11:27:50 [127.0.0.1] User Click  -> [test_button] => MyButton
+11:28:09 [127.0.0.1] User Entry  -> [test_text] => Login this
+11:28:11 [127.0.0.1] User Entry  -> [X_test_text] => ** Not Tracking **
+11:28:22 [127.0.0.1] User Entry  -> [X_test_text] => ** Not Tracking **
+11:28:27 [127.0.0.1] User Entry  -> [CCnum] => ****card
+11:28:28 [127.0.0.1] User Select -> [checkbox1] Checked => true
+11:28:30 [127.0.0.1] User Select -> [Myradio1] Radio Selected => true
+11:28:33 [127.0.0.1] This user clicked a button they were not suppose to.
+11:28:33 [127.0.0.1] User Click  -> [test_log] => Do Not Click
+11:28:34 [127.0.0.1] User Select -> [countries] Drop Down Selected => Albania
+11:28:35 [127.0.0.1] Array Values:
+11:28:35 [127.0.0.1]    Web = Brandon
+11:28:35 [127.0.0.1]    Boss = Daniel
+11:28:35 [127.0.0.1]    Designer = Jessica
+11:28:35 [127.0.0.1]    Writer = Sarah
+11:28:35 [127.0.0.1]    Designer2 = Anthony
+11:28:36 [127.0.0.1] User Agent Values:
+11:28:36 [127.0.0.1]    agent_name = Chrome
+11:28:36 [127.0.0.1]    agent_version = 52.0.2743.116
+11:28:36 [127.0.0.1]    os_type = Windows
+11:28:36 [127.0.0.1]    os_name = Windows 10
+11:28:36 [127.0.0.1] [WARN] This is a normal Error!
+11:28:36 [127.0.0.1] POST Values:
+11:28:36 [127.0.0.1]    fName = Login this
+11:28:36 [127.0.0.1]    X_test_text = **************mber
+11:28:36 [127.0.0.1]    CCnum = ****card
+11:28:36 [127.0.0.1]    checkbox1 = Checkbox 1
+11:28:36 [127.0.0.1]    radio1 = Radio 1
+11:28:36 [127.0.0.1]    countries = Albania
+11:28:36 [127.0.0.1]    submit = submit
+11:28:36 [127.0.0.1] [SQL Action] Check SQL Logs
+11:35:17 [127.0.0.1] Array Values:
+11:35:17 [127.0.0.1]    Web = Brandon
+11:35:17 [127.0.0.1]    Boss = Daniel
+11:35:17 [127.0.0.1]    Designer = Jessica
+11:35:17 [127.0.0.1]    Writer = Sarah
+11:35:17 [127.0.0.1]    Designer2 = Anthony
+11:35:18 [127.0.0.1] User Agent Values:
+11:35:18 [127.0.0.1]    agent_name = Chrome
+11:35:18 [127.0.0.1]    agent_version = 52.0.2743.116
+11:35:18 [127.0.0.1]    os_type = Windows
+11:35:18 [127.0.0.1]    os_name = Windows 10
+11:35:18 [127.0.0.1] [WARN] This is a normal Error!
+11:35:18 [127.0.0.1] POST Values:
+11:35:18 [127.0.0.1]    fName = Login this
+11:35:18 [127.0.0.1]    X_test_text = **************mber
+11:35:18 [127.0.0.1]    CCnum = ****card
+11:35:18 [127.0.0.1]    checkbox1 = Checkbox 1
+11:35:18 [127.0.0.1]    radio1 = Radio 1
+11:35:18 [127.0.0.1]    countries = Albania
+11:35:18 [127.0.0.1]    submit = submit
+11:35:18 [127.0.0.1] [SQL Action] Check SQL Logs
+11:35:28 [127.0.0.1] User Entry  -> [CCnum] => ****8790
+11:35:28 [127.0.0.1] User Select -> [checkbox1] Checked => true

@@ -1,0 +1,20 @@
+15:49:45 Array Values:
+15:49:45    Web = Brandon
+15:49:45    Boss = Daniel
+15:49:45    Designer = Jessica
+15:49:45    Writer = Sarah
+15:49:45    Designer2 = Anthony
+15:49:45 User Agent Values:
+15:49:45    agent_name = unknown
+15:49:45    agent_version = 
+15:49:45    os_type = unknown
+15:49:45    os_name = unknown
+15:49:45 [WARN] This is a normal Error!
+15:49:45 No input submitted
+15:49:45 [SQL Action] Check SQL Logs
+15:49:45 [TRACE]1
+15:49:45 [TRACE]2
+15:49:45 [TRACE]3
+15:49:45 [TRACE]4
+15:49:45 [TRACE]5
+15:49:45 [TRACE]6

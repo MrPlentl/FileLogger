@@ -1,0 +1,163 @@
+16:00:51 [127.0.0.1] Send Mail!
+16:00:51 [127.0.0.1] Array Values:
+16:00:51 [127.0.0.1]    Web = Brandon
+16:00:51 [127.0.0.1]    Boss = Daniel
+16:00:51 [127.0.0.1]    Designer = Jessica
+16:00:51 [127.0.0.1]    Writer = Sarah
+16:00:51 [127.0.0.1]    Designer2 = Anthony
+16:00:52 [127.0.0.1] User Agent Values:
+16:00:52 [127.0.0.1]    agent_name = Chrome
+16:00:52 [127.0.0.1]    agent_version = 37.0.2062.120
+16:00:52 [127.0.0.1]    os_type = Windows
+16:00:52 [127.0.0.1]    os_name = Windows 7
+16:00:52 [127.0.0.1] [WARN] This is a normal Error!
+16:00:52 [127.0.0.1] POST Values:
+16:00:52 [127.0.0.1] GET Values:
+16:00:52 [127.0.0.1] [SQL Action] Check SQL Logs
+16:11:05 [127.0.0.1] Error EMAIL sent.
+16:11:05 [127.0.0.1] Array Values:
+16:11:05 [127.0.0.1]    Web = Brandon
+16:11:05 [127.0.0.1]    Boss = Daniel
+16:11:05 [127.0.0.1]    Designer = Jessica
+16:11:05 [127.0.0.1]    Writer = Sarah
+16:11:05 [127.0.0.1]    Designer2 = Anthony
+16:11:06 [127.0.0.1] User Agent Values:
+16:11:06 [127.0.0.1]    agent_name = Chrome
+16:11:06 [127.0.0.1]    agent_version = 37.0.2062.120
+16:11:06 [127.0.0.1]    os_type = Windows
+16:11:06 [127.0.0.1]    os_name = Windows 7
+16:11:06 [127.0.0.1] [WARN] This is a normal Error!
+16:11:06 [127.0.0.1] POST Values:
+16:11:06 [127.0.0.1] GET Values:
+16:11:06 [127.0.0.1] [SQL Action] Check SQL Logs
+16:16:29 [127.0.0.1] Error EMAIL sent.
+16:16:29 [127.0.0.1] Array Values:
+16:16:29 [127.0.0.1]    Web = Brandon
+16:16:29 [127.0.0.1]    Boss = Daniel
+16:16:29 [127.0.0.1]    Designer = Jessica
+16:16:29 [127.0.0.1]    Writer = Sarah
+16:16:29 [127.0.0.1]    Designer2 = Anthony
+16:16:29 [127.0.0.1] User Agent Values:
+16:16:29 [127.0.0.1]    agent_name = Chrome
+16:16:29 [127.0.0.1]    agent_version = 37.0.2062.120
+16:16:29 [127.0.0.1]    os_type = Windows
+16:16:29 [127.0.0.1]    os_name = Windows 7
+16:16:29 [127.0.0.1] [WARN] This is a normal Error!
+16:16:29 [127.0.0.1] POST Values:
+16:16:29 [127.0.0.1] GET Values:
+16:16:29 [127.0.0.1] [SQL Action] Check SQL Logs
+16:19:42 [127.0.0.1] Error EMAIL sent.
+16:19:42 [127.0.0.1] Array Values:
+16:19:42 [127.0.0.1]    Web = Brandon
+16:19:42 [127.0.0.1]    Boss = Daniel
+16:19:42 [127.0.0.1]    Designer = Jessica
+16:19:42 [127.0.0.1]    Writer = Sarah
+16:19:42 [127.0.0.1]    Designer2 = Anthony
+16:19:42 [127.0.0.1] User Agent Values:
+16:19:42 [127.0.0.1]    agent_name = Chrome
+16:19:42 [127.0.0.1]    agent_version = 37.0.2062.120
+16:19:42 [127.0.0.1]    os_type = Windows
+16:19:42 [127.0.0.1]    os_name = Windows 7
+16:19:42 [127.0.0.1] [WARN] This is a normal Error!
+16:19:42 [127.0.0.1] POST Values:
+16:19:42 [127.0.0.1] GET Values:
+16:19:42 [127.0.0.1] [SQL Action] Check SQL Logs
+16:27:01 [127.0.0.1] EMAIL sent.
+16:27:01 [127.0.0.1] Array Values:
+16:27:01 [127.0.0.1]    Web = Brandon
+16:27:01 [127.0.0.1]    Boss = Daniel
+16:27:01 [127.0.0.1]    Designer = Jessica
+16:27:01 [127.0.0.1]    Writer = Sarah
+16:27:01 [127.0.0.1]    Designer2 = Anthony
+16:27:01 [127.0.0.1] User Agent Values:
+16:27:01 [127.0.0.1]    agent_name = Chrome
+16:27:01 [127.0.0.1]    agent_version = 37.0.2062.120
+16:27:01 [127.0.0.1]    os_type = Windows
+16:27:01 [127.0.0.1]    os_name = Windows 7
+16:27:01 [127.0.0.1] [WARN] This is a normal Error!
+16:27:01 [127.0.0.1] POST Values:
+16:27:01 [127.0.0.1] GET Values:
+16:27:01 [127.0.0.1] [SQL Action] Check SQL Logs
+16:30:36 [127.0.0.1] User Click  -> [test_button] => MyButton
+16:30:41 [127.0.0.1] User Entry  -> [test_text] => Brandon
+16:30:42 [127.0.0.1] User Entry  -> [test_text] => 
+16:30:51 [127.0.0.1] User Entry  -> [test_text] => Plentl
+16:30:55 [127.0.0.1] User Entry  -> [CCnum] => 544446542132432454
+16:31:06 [127.0.0.1] User Entry  -> [CCnum] => 544446542132432454
+16:31:06 [127.0.0.1] User Select -> [checkbox1] Checked => true
+16:31:07 [127.0.0.1] User Select -> [Myradio1] Radio Selected => true
+16:31:08 [127.0.0.1] User Select -> [Myradio2] Radio Selected => true
+16:31:09 [127.0.0.1] User Select -> [countries] Drop Down Selected => Albania
+16:31:09 [127.0.0.1] This user clicked a button they were not suppose to.
+16:31:09 [127.0.0.1] User Click  -> [test_log] => Do Not Click
+16:31:11 [127.0.0.1] EMAIL sent.
+16:31:11 [127.0.0.1] Array Values:
+16:31:11 [127.0.0.1]    Web = Brandon
+16:31:11 [127.0.0.1]    Boss = Daniel
+16:31:11 [127.0.0.1]    Designer = Jessica
+16:31:11 [127.0.0.1]    Writer = Sarah
+16:31:11 [127.0.0.1]    Designer2 = Anthony
+16:31:12 [127.0.0.1] User Agent Values:
+16:31:12 [127.0.0.1]    agent_name = Chrome
+16:31:12 [127.0.0.1]    agent_version = 37.0.2062.120
+16:31:12 [127.0.0.1]    os_type = Windows
+16:31:12 [127.0.0.1]    os_name = Windows 7
+16:31:12 [127.0.0.1] [WARN] This is a normal Error!
+16:31:12 [127.0.0.1] POST Values:
+16:31:12 [127.0.0.1]    fName = Brandon
+16:31:12 [127.0.0.1]    X_test_text = ******
+16:31:12 [127.0.0.1]    CCnum = ****2454
+16:31:12 [127.0.0.1]    checkbox1 = Checkbox 1
+16:31:12 [127.0.0.1]    radio1 = Radio 2
+16:31:12 [127.0.0.1]    countries = Albania
+16:31:12 [127.0.0.1]    submit = submit
+16:31:12 [127.0.0.1] GET Values:
+16:31:12 [127.0.0.1] [SQL Action] Check SQL Logs
+16:36:45 [127.0.0.1] EMAIL sent.
+16:36:45 [127.0.0.1] Array Values:
+16:36:45 [127.0.0.1]    Web = Brandon
+16:36:45 [127.0.0.1]    Boss = Daniel
+16:36:45 [127.0.0.1]    Designer = Jessica
+16:36:45 [127.0.0.1]    Writer = Sarah
+16:36:45 [127.0.0.1]    Designer2 = Anthony
+16:36:46 [127.0.0.1] User Agent Values:
+16:36:46 [127.0.0.1]    agent_name = Chrome
+16:36:46 [127.0.0.1]    agent_version = 37.0.2062.120
+16:36:46 [127.0.0.1]    os_type = Windows
+16:36:46 [127.0.0.1]    os_name = Windows 7
+16:36:46 [127.0.0.1] [WARN] This is a normal Error!
+16:36:46 [127.0.0.1] POST Values:
+16:36:46 [127.0.0.1] GET Values:
+16:36:46 [127.0.0.1] [SQL Action] Check SQL Logs
+16:37:51 [127.0.0.1] EMAIL sent.
+16:37:51 [127.0.0.1] Array Values:
+16:37:51 [127.0.0.1]    Web = Brandon
+16:37:51 [127.0.0.1]    Boss = Daniel
+16:37:51 [127.0.0.1]    Designer = Jessica
+16:37:51 [127.0.0.1]    Writer = Sarah
+16:37:51 [127.0.0.1]    Designer2 = Anthony
+16:37:51 [127.0.0.1] User Agent Values:
+16:37:51 [127.0.0.1]    agent_name = Chrome
+16:37:51 [127.0.0.1]    agent_version = 37.0.2062.120
+16:37:51 [127.0.0.1]    os_type = Windows
+16:37:51 [127.0.0.1]    os_name = Windows 7
+16:37:51 [127.0.0.1] [WARN] This is a normal Error!
+16:37:51 [127.0.0.1] POST Values:
+16:37:51 [127.0.0.1] GET Values:
+16:37:51 [127.0.0.1] [SQL Action] Check SQL Logs
+16:41:02 [127.0.0.1] EMAIL sent.
+16:41:02 [127.0.0.1] Array Values:
+16:41:02 [127.0.0.1]    Web = Brandon
+16:41:02 [127.0.0.1]    Boss = Daniel
+16:41:02 [127.0.0.1]    Designer = Jessica
+16:41:02 [127.0.0.1]    Writer = Sarah
+16:41:02 [127.0.0.1]    Designer2 = Anthony
+16:41:02 [127.0.0.1] User Agent Values:
+16:41:02 [127.0.0.1]    agent_name = Chrome
+16:41:02 [127.0.0.1]    agent_version = 37.0.2062.120
+16:41:02 [127.0.0.1]    os_type = Windows
+16:41:02 [127.0.0.1]    os_name = Windows 7
+16:41:02 [127.0.0.1] [WARN] This is a normal Error!
+16:41:02 [127.0.0.1] POST Values:
+16:41:02 [127.0.0.1] GET Values:
+16:41:02 [127.0.0.1] [SQL Action] Check SQL Logs

@@ -1,0 +1,319 @@
+16:04:52 Array Values:
+16:04:52    Web = Brandon
+16:04:52    Boss = Daniel
+16:04:52    Designer = Jessica
+16:04:52    Writer = Sarah
+16:04:52    Designer2 = Anthony
+16:04:52 User Agent Values:
+16:04:52    agent_name = Chrome
+16:04:52    agent_version = 40.0.2214.111
+16:04:52    os_type = Windows
+16:04:52    os_name = Windows 7
+16:04:52 [WARN] This is a normal Error!
+16:04:52 POST Values:
+16:04:52 GET Values:
+16:04:52 [SQL Action] Check SQL Logs
+16:04:52 [TRACE]1
+16:04:52 [TRACE]2
+16:04:52 [TRACE]3
+16:04:52 [TRACE]4
+16:04:52 [TRACE]5
+16:04:52 [TRACE]6
+16:12:53 Array Values:
+16:12:53    Web = Brandon
+16:12:53    Boss = Daniel
+16:12:53    Designer = Jessica
+16:12:53    Writer = Sarah
+16:12:53    Designer2 = Anthony
+16:12:53 User Agent Values:
+16:12:54    agent_name = Chrome
+16:12:54    agent_version = 40.0.2214.111
+16:12:54    os_type = Windows
+16:12:54    os_name = Windows 7
+16:12:54 [WARN] This is a normal Error!
+16:12:54 No input submitted
+16:12:54 [SQL Action] Check SQL Logs
+16:12:54 [TRACE]1
+16:12:54 [TRACE]2
+16:12:54 [TRACE]3
+16:12:54 [TRACE]4
+16:12:54 [TRACE]5
+16:12:54 [TRACE]6
+16:13:07 User Click  -> [test_button] => MyButton
+16:13:15 User Entry  -> [test_text] => 
+16:13:15 User Entry  -> [test_text] => 
+16:13:28 User Entry  -> [test_text] => Field2
+16:14:20 Array Values:
+16:14:20    Web = Brandon
+16:14:20    Boss = Daniel
+16:14:20    Designer = Jessica
+16:14:20    Writer = Sarah
+16:14:20    Designer2 = Anthony
+16:14:20 User Agent Values:
+16:14:20    agent_name = Chrome
+16:14:20    agent_version = 40.0.2214.111
+16:14:20    os_type = Windows
+16:14:20    os_name = Windows 7
+16:14:20 [WARN] This is a normal Error!
+16:14:20 No input submitted
+16:14:20 [SQL Action] Check SQL Logs
+16:14:20 [TRACE]1
+16:14:20 [TRACE]2
+16:14:20 [TRACE]3
+16:14:20 [TRACE]4
+16:14:20 [TRACE]5
+16:14:20 [TRACE]6
+16:14:23 Array Values:
+16:14:23    Web = Brandon
+16:14:23    Boss = Daniel
+16:14:23    Designer = Jessica
+16:14:23    Writer = Sarah
+16:14:23    Designer2 = Anthony
+16:14:23 User Agent Values:
+16:14:23    agent_name = Chrome
+16:14:23    agent_version = 40.0.2214.111
+16:14:23    os_type = Windows
+16:14:23    os_name = Windows 7
+16:14:23 [WARN] This is a normal Error!
+16:14:23 No input submitted
+16:14:23 [SQL Action] Check SQL Logs
+16:14:23 [TRACE]1
+16:14:23 [TRACE]2
+16:14:23 [TRACE]3
+16:14:23 [TRACE]4
+16:14:23 [TRACE]5
+16:14:23 [TRACE]6
+16:14:28 User Click  -> [test_button] => MyButton
+16:14:37 User Entry  -> [test_text] => Brandin Plentl
+16:14:38 User Entry  -> [X_test_text] => 
+16:14:49 User Entry  -> [X_test_text] => Field2
+16:14:50 User Entry  -> [CCnum] => Field3
+16:15:27 User Select -> [checkbox1] Checked => true
+16:15:37 User Entry  -> [test_text] => Brandin Plentl
+16:15:56 User Entry  -> [test_text] => Brandon
+16:37:13 Array Values:
+16:37:13    Web = Brandon
+16:37:13    Boss = Daniel
+16:37:13    Designer = Jessica
+16:37:13    Writer = Sarah
+16:37:13    Designer2 = Anthony
+16:37:14 User Agent Values:
+16:37:14    agent_name = Chrome
+16:37:14    agent_version = 40.0.2214.111
+16:37:14    os_type = Windows
+16:37:14    os_name = Windows 7
+16:37:14 [WARN] This is a normal Error!
+16:37:14 No input submitted
+16:37:14 [SQL Action] Check SQL Logs
+16:37:14 [TRACE]1
+16:37:14 [TRACE]2
+16:37:14 [TRACE]3
+16:37:14 [TRACE]4
+16:37:14 [TRACE]5
+16:37:14 [TRACE]6
+16:37:30 User Entry  -> [X_test_text] => 123456777
+16:37:35 User Entry  -> [CCnum] => 1234567788
+16:38:02 User Entry  -> [CCnum] => 1234567788
+16:38:05 User Entry  -> [CCnum] => 1234567788
+16:38:06 Array Values:
+16:38:06    Web = Brandon
+16:38:06    Boss = Daniel
+16:38:06    Designer = Jessica
+16:38:06    Writer = Sarah
+16:38:06    Designer2 = Anthony
+16:38:06 User Agent Values:
+16:38:06    agent_name = Chrome
+16:38:06    agent_version = 40.0.2214.111
+16:38:06    os_type = Windows
+16:38:06    os_name = Windows 7
+16:38:06 [WARN] This is a normal Error!
+16:38:06 No input submitted
+16:38:06 [SQL Action] Check SQL Logs
+16:38:06 [TRACE]1
+16:38:06 [TRACE]2
+16:38:06 [TRACE]3
+16:38:06 [TRACE]4
+16:38:06 [TRACE]5
+16:38:06 [TRACE]6
+16:38:09 User Entry  -> [CCnum] => *123213213213
+16:38:10 User Entry  -> [X_test_text] => ****1232132131231
+16:38:56 User Entry  -> [CCnum] => *123213213213
+16:38:57 Array Values:
+16:38:57    Web = Brandon
+16:38:57    Boss = Daniel
+16:38:57    Designer = Jessica
+16:38:57    Writer = Sarah
+16:38:57    Designer2 = Anthony
+16:38:58 User Agent Values:
+16:38:58    agent_name = Chrome
+16:38:58    agent_version = 40.0.2214.111
+16:38:58    os_type = Windows
+16:38:58    os_name = Windows 7
+16:38:58 [WARN] This is a normal Error!
+16:38:58 No input submitted
+16:38:58 [SQL Action] Check SQL Logs
+16:38:58 [TRACE]1
+16:38:58 [TRACE]2
+16:38:58 [TRACE]3
+16:38:58 [TRACE]4
+16:38:58 [TRACE]5
+16:38:58 [TRACE]6
+16:38:59 Array Values:
+16:38:59    Web = Brandon
+16:38:59    Boss = Daniel
+16:38:59    Designer = Jessica
+16:38:59    Writer = Sarah
+16:38:59    Designer2 = Anthony
+16:39:00 User Agent Values:
+16:39:00    agent_name = Chrome
+16:39:00    agent_version = 40.0.2214.111
+16:39:00    os_type = Windows
+16:39:00    os_name = Windows 7
+16:39:00 [WARN] This is a normal Error!
+16:39:00 No input submitted
+16:39:00 [SQL Action] Check SQL Logs
+16:39:00 [TRACE]1
+16:39:00 [TRACE]2
+16:39:00 [TRACE]3
+16:39:00 [TRACE]4
+16:39:00 [TRACE]5
+16:39:00 [TRACE]6
+16:39:12 User Entry  -> [CCnum] => 1234567890
+16:39:13 User Entry  -> [CCnum] => 1234567890
+16:39:24 User Entry  -> [X_test_text] => ****1234567890
+16:43:06 Array Values:
+16:43:06    Web = Brandon
+16:43:06    Boss = Daniel
+16:43:06    Designer = Jessica
+16:43:06    Writer = Sarah
+16:43:06    Designer2 = Anthony
+16:43:06 User Agent Values:
+16:43:06    agent_name = Chrome
+16:43:06    agent_version = 40.0.2214.111
+16:43:06    os_type = Windows
+16:43:06    os_name = Windows 7
+16:43:06 [WARN] This is a normal Error!
+16:43:06 No input submitted
+16:43:06 [SQL Action] Check SQL Logs
+16:43:06 [TRACE]1
+16:43:06 [TRACE]2
+16:43:06 [TRACE]3
+16:43:06 [TRACE]4
+16:43:06 [TRACE]5
+16:43:06 [TRACE]6
+16:43:14 User Entry  -> [X_test_text] => ****1234
+16:43:35 User Entry  -> [X_test_text] => ****1234
+16:44:17 User Entry  -> [X_test_text] => ****1234
+16:44:18 Array Values:
+16:44:18    Web = Brandon
+16:44:18    Boss = Daniel
+16:44:18    Designer = Jessica
+16:44:18    Writer = Sarah
+16:44:18    Designer2 = Anthony
+16:44:18 User Agent Values:
+16:44:18    agent_name = Chrome
+16:44:18    agent_version = 40.0.2214.111
+16:44:18    os_type = Windows
+16:44:18    os_name = Windows 7
+16:44:18 [WARN] This is a normal Error!
+16:44:18 No input submitted
+16:44:18 [SQL Action] Check SQL Logs
+16:44:18 [TRACE]1
+16:44:18 [TRACE]2
+16:44:18 [TRACE]3
+16:44:18 [TRACE]4
+16:44:18 [TRACE]5
+16:44:18 [TRACE]6
+16:44:23 User Entry  -> [X_test_text] => ****7890
+16:45:00 User Entry  -> [X_test_text] => ****9012
+16:46:46 Array Values:
+16:46:46    Web = Brandon
+16:46:46    Boss = Daniel
+16:46:46    Designer = Jessica
+16:46:46    Writer = Sarah
+16:46:46    Designer2 = Anthony
+16:46:46 User Agent Values:
+16:46:46    agent_name = Chrome
+16:46:46    agent_version = 40.0.2214.111
+16:46:46    os_type = Windows
+16:46:46    os_name = Windows 7
+16:46:46 [WARN] This is a normal Error!
+16:46:46 No input submitted
+16:46:46 [SQL Action] Check SQL Logs
+16:46:46 [TRACE]1
+16:46:46 [TRACE]2
+16:46:46 [TRACE]3
+16:46:46 [TRACE]4
+16:46:46 [TRACE]5
+16:46:46 [TRACE]6
+16:46:49 User Entry  -> [test_text] => Brandon
+16:46:57 User Entry  -> [X_test_text] => ****irty
+16:47:05 User Entry  -> [CCnum] => ****3456
+16:47:05 User Select -> [checkbox1] Checked => true
+16:52:12 Array Values:
+16:52:12    Web = Brandon
+16:52:12    Boss = Daniel
+16:52:12    Designer = Jessica
+16:52:12    Writer = Sarah
+16:52:12    Designer2 = Anthony
+16:52:13 User Agent Values:
+16:52:13    agent_name = Chrome
+16:52:13    agent_version = 40.0.2214.111
+16:52:13    os_type = Windows
+16:52:13    os_name = Windows 7
+16:52:13 [WARN] This is a normal Error!
+16:52:13 No input submitted
+16:52:13 [SQL Action] Check SQL Logs
+16:52:13 [TRACE]1
+16:52:13 [TRACE]2
+16:52:13 [TRACE]3
+16:52:13 [TRACE]4
+16:52:13 [TRACE]5
+16:52:13 [TRACE]6
+16:52:41 This user clicked a button they were not suppose to.
+16:52:41 User Click  -> [test_log] => Do Not Click
+16:53:34 Array Values:
+16:53:34    Web = Brandon
+16:53:34    Boss = Daniel
+16:53:34    Designer = Jessica
+16:53:34    Writer = Sarah
+16:53:34    Designer2 = Anthony
+16:53:35 User Agent Values:
+16:53:35    agent_name = Chrome
+16:53:35    agent_version = 40.0.2214.111
+16:53:35    os_type = Windows
+16:53:35    os_name = Windows 7
+16:53:35 [WARN] This is a normal Error!
+16:53:35 No input submitted
+16:53:35 [SQL Action] Check SQL Logs
+16:53:35 [TRACE]1
+16:53:35 [TRACE]2
+16:53:35 [TRACE]3
+16:53:35 [TRACE]4
+16:53:35 [TRACE]5
+16:53:35 [TRACE]6
+16:56:54 Array Values:
+16:56:54    Web = Brandon
+16:56:54    Boss = Daniel
+16:56:54    Designer = Jessica
+16:56:54    Writer = Sarah
+16:56:54    Designer2 = Anthony
+16:56:55 User Agent Values:
+16:56:55    agent_name = Chrome
+16:56:55    agent_version = 40.0.2214.111
+16:56:55    os_type = Windows
+16:56:55    os_name = Windows 7
+16:56:55 [WARN] This is a normal Error!
+16:56:55 POST Values:
+16:56:55    fName = 
+16:56:55    X_test_text = 
+16:56:55    CCnum = ****
+16:56:55    countries = Aruba
+16:56:55    submit = submit
+16:56:55 [SQL Action] Check SQL Logs
+16:56:55 [TRACE]1
+16:56:55 [TRACE]2
+16:56:55 [TRACE]3
+16:56:55 [TRACE]4
+16:56:55 [TRACE]5
+16:56:55 [TRACE]6
