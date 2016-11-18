@@ -1,10 +1,10 @@
 <?php
 /*************************************************************
-* File:            log2file_config.php   
+* File:            __config.php
 * Current Ver:     
 * Function:       
 * Author:          Brandon Plentl (bp)
-* Environment:     PhpStorm - Windows 7 and iOS X
+* Environment:     PhpStorm - Windows 10
 * Code Cleaned:   
 * Code Validated: 
 * Notes:          
@@ -15,7 +15,7 @@
 // The following Log paths can be set to Absolute Paths so you can set the path outside of the Site for security
 // Currently using .htaccess to block people
 define("Log_Path",              "./_logs");
-define("Sql_Log_Path",          "/._logs");
+define("Sql_Log_Path",          "./_logs");
 define("Usertrack_Log_Path",    "./_logs/usertracks");
 define("Util_Log_Path",         "./_logs");
 

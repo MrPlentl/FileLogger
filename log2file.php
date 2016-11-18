@@ -1,11 +1,12 @@
 <?php
 /*************************************************************
-* File:            History.php
+* File:            log2file.php
 * Function:        Contains all of the Logging info and functions to create logs
 * Author:          Brandon Plentl (bp)
-* Environment:     PhpStorm - Windows 7
-* Code Cleaned:    05/07/15 - Started
-* Code Validated:  05/07/15 - Working
+* Environment:     PhpStorm - Windows 10
+* Code Cleaned:    11/07/16 - Started
+* Code Validated:  11/07/16 - Working
+* Code Updated:    11/07/16 - Working
 * Notes:
 * Revisions:       1.00  05/07/15 (bp) First Release
 *************************************************************/

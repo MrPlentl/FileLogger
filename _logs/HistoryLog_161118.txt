@@ -1,0 +1,65 @@
+16:53:30 [127.0.0.1] Array Values:
+16:53:30 [127.0.0.1]    Web = Brandon
+16:53:30 [127.0.0.1]    Boss = Daniel
+16:53:30 [127.0.0.1]    Designer = Jessica
+16:53:30 [127.0.0.1]    Writer = Sarah
+16:53:30 [127.0.0.1]    Designer2 = Anthony
+16:53:32 [127.0.0.1] [ERROR] User Agent Values:  Unable to Log User Agent Information due to a connection error with useragentstring.com. Error while executing: log2file::LogUserAgent() 10060 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+16:53:32 [127.0.0.1] [WARN] This is a normal Error!
+16:53:32 [127.0.0.1] No input submitted
+16:53:32 [127.0.0.1] [SQL Action] Check SQL Logs
+16:54:14 [127.0.0.1] Array Values:
+16:54:14 [127.0.0.1]    Web = Brandon
+16:54:14 [127.0.0.1]    Boss = Daniel
+16:54:14 [127.0.0.1]    Designer = Jessica
+16:54:14 [127.0.0.1]    Writer = Sarah
+16:54:14 [127.0.0.1]    Designer2 = Anthony
+16:54:16 [127.0.0.1] [ERROR] User Agent Values:  Unable to Log User Agent Information due to a connection error with useragentstring.com. Error while executing: log2file::LogUserAgent() 10060 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+16:54:16 [127.0.0.1] [WARN] This is a normal Error!
+16:54:16 [127.0.0.1] POST Values:
+16:54:16 [127.0.0.1]    fName = Are you listening
+16:54:16 [127.0.0.1]    X_test_text = ********king
+16:54:16 [127.0.0.1]    CCnum = ****ther
+16:54:16 [127.0.0.1]    checkbox1 = Checkbox 1
+16:54:16 [127.0.0.1]    radio1 = Radio 2
+16:54:16 [127.0.0.1]    countries = Aruba
+16:54:16 [127.0.0.1]    submit = submit
+16:54:16 [127.0.0.1] [SQL Action] Check SQL Logs
+17:00:33 [127.0.0.1] Array Values:
+17:00:33 [127.0.0.1]    Web = Brandon
+17:00:33 [127.0.0.1]    Boss = Daniel
+17:00:33 [127.0.0.1]    Designer = Jessica
+17:00:33 [127.0.0.1]    Writer = Sarah
+17:00:33 [127.0.0.1]    Designer2 = Anthony
+17:00:35 [127.0.0.1] [ERROR] User Agent Values:  Unable to Log User Agent Information due to a connection error with useragentstring.com. Error while executing: log2file::LogUserAgent() 10060 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+17:00:35 [127.0.0.1] [WARN] This is a normal Error!
+17:00:35 [127.0.0.1] POST Values:
+17:00:35 [127.0.0.1]    fName = Are you listening
+17:00:35 [127.0.0.1]    X_test_text = ********king
+17:00:35 [127.0.0.1]    CCnum = ****ther
+17:00:35 [127.0.0.1]    checkbox1 = Checkbox 1
+17:00:35 [127.0.0.1]    radio1 = Radio 2
+17:00:35 [127.0.0.1]    countries = Aruba
+17:00:35 [127.0.0.1]    submit = submit
+17:00:35 [127.0.0.1] [SQL Action] Check SQL Logs
+17:02:16 [127.0.0.1] Array Values:
+17:02:16 [127.0.0.1]    Web = Brandon
+17:02:16 [127.0.0.1]    Boss = Daniel
+17:02:16 [127.0.0.1]    Designer = Jessica
+17:02:16 [127.0.0.1]    Writer = Sarah
+17:02:16 [127.0.0.1]    Designer2 = Anthony
+17:02:18 [127.0.0.1] [ERROR] User Agent Values:  Unable to Log User Agent Information due to a connection error with useragentstring.com. Error while executing: log2file::LogUserAgent() 10060 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+17:02:18 [127.0.0.1] [WARN] This is a normal Error!
+17:02:18 [127.0.0.1] POST Values:
+17:02:18 [127.0.0.1]    fName = Are you listening
+17:02:18 [127.0.0.1]    X_test_text = ********king
+17:02:18 [127.0.0.1]    CCnum = ****ther
+17:02:18 [127.0.0.1]    checkbox1 = Checkbox 1
+17:02:18 [127.0.0.1]    radio1 = Radio 2
+17:02:18 [127.0.0.1]    countries = Aruba
+17:02:18 [127.0.0.1]    submit = submit
+17:02:18 [127.0.0.1] [SQL Action] Check SQL Logs
