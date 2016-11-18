@@ -1,3 +1,10 @@
+# FileLogger
+### Cause sometimes I just need a File Logging Solution
+
+### Always Under Development
+I'm always adding new stuff. Though everything checked in should work... theoretically.
+
+SETUP
 ### Included in log2file_config.php
 define("Log_Path",              "./_logz");
     == Location of the General Log files
@@ -25,3 +32,17 @@ SQLHistoryLog( $SqlScript );
 function ErrorLog ( $item, $logSessionInfo=FALSE );
 function ErrorSessionLog();
 function send_error_notification()
+
+## License
+
+All files are published using [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/license-list.html#GNUGPL).
+I'm guessing I picked the right one, but basically, I don't care what you do with this code.
+
+
+## The FileLogger Team
+
+There is no "I" in Team... but in this case, it's just me. :) My FileLogger Class is currently maintained by [Brandon Plentl](https://github.com/MrPlentl),
+
+## Thank you!
+
+I really appreciate all kinds of feedback and contributions. Let me know if any of this is useful!
