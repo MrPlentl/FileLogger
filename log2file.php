@@ -127,12 +127,11 @@ class log2file
     }
 
     ### LogUserAgent() uses a third party to detect information about the user from the the User Agent string
-    public function LogUserAgent()
-    {
+    public function LogUserAgent() {
         $UserAgentURL = "useragentstring.com";   // This is the URL to the free service at useragentstring.com that reads in the User Agent Sting and parses the information; I currently only request the following: agent_name-agent_version-os_type-os_name
         // Check Connection
-        if( !fsockopen( $UserAgentURL, 80 ) ) {
-            $this->ErrorLog("User Agent Values:  Unable to Log User Agent Information due to a connection error with " . $UserAgentURL . ". Error while executing: " . __METHOD__ ."()", "[ERROR]");
+        if( !fsockopen( $UserAgentURL, 80,$error_num,$error_str,2 ) ) {
+            $this->ErrorLog("User Agent Values:  Unable to Log User Agent Information due to a connection error with " . $UserAgentURL . ". Error while executing: " . __METHOD__ ."() " . $error_num . " - " . $error_str, "[ERROR]");
         } else {
             $url = "http://" . $UserAgentURL . "/?uas=" . $_SERVER['HTTP_USER_AGENT'] . "&getJSON=agent_name-agent_version-os_type-os_name";
             $url = str_replace(" ", "%20", $url);   // Example: http://useragentstring.com/?uas=Mozilla/5.0%20(Windows%20NT%206.1;%20WOW64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/37.0.2062.120%20Safari/537.36&getJSON=agent_name-agent_version-os_type-os_name
@@ -172,11 +171,11 @@ class log2file
         14:31:14 [_brandon]    customerAbbr = IFP
         */
 
-        if( !$_POST && !$_GET){
+        if ( !$_POST && !$_GET ){
             $this->History("No input submitted");
         }
 
-        if( $_POST ) {
+        if ( $_POST ) {
             $this->History("POST Values:");
             foreach ($_POST as $key => $value) {
                 //  Fields that have the name 'CCnum' or AcctN will only print the last 4 characters and prepend 4 stars to its value; Meant for credit card numbers
@@ -184,7 +183,7 @@ class log2file
                     $this->History("   " . $key . " " . "=" . " " . "****" . substr($value, -4, 4));
                     if (is_array($value)) {
                         foreach ($value as $k => $v) {
-                            $this->History("       " . $k . " " . "=" . " " . $v, 1);
+                            $this->History("       " . $k . " " . "=" . " " . $v);
                         }
                     }
                 } //  Fields that have a name that starts with 'X_' will not print any of their value to the log; instead each character will be replaced with '*'
@@ -207,14 +206,14 @@ class log2file
                     $this->History("   " . $key . " " . "=" . " " . $value);
                     if (is_array($value)) {
                         foreach ($value as $k => $v) {
-                            $this->History("       " . $k . " " . "=" . " " . $v, 1);
+                            $this->History("       " . $k . " " . "=" . " " . $v);
                         }
                     }
                 }
             }
         }
 
-        if( $_GET ) {
+        if ( $_GET ) {
             // If it's in the URL when the page submits, it will be in the log... no exceptions
             $this->History("GET Values:");
             foreach ($_GET as $key => $value) {
@@ -233,7 +232,7 @@ class log2file
                 $this->History( "   " . $key . " " . "=" . " " . "****" . substr($value,-4,4) );
                 if( is_array( $value )){
                     foreach( $value as $k => $v ){
-                        $this->History( "       " . $k . " " . "=" . " " . $v, 1 );
+                        $this->History( "       " . $k . " " . "=" . " " . $v );
                     }
                 }
             } else if( substr($key,0,2) != "X_" ) {
@@ -254,7 +253,7 @@ class log2file
                 $this->History( "   " . $key . " " . "=" . " " . $value );
                 if( is_array( $value )){
                     foreach( $value as $k => $v ){
-                        $this->History( "       " . $k . " " . "=" . " " . $v, 1 );
+                        $this->History( "       " . $k . " " . "=" . " " . $v );
                     }
                 }
             }
@@ -270,7 +269,10 @@ class log2file
         }
     }
 
-    ### Trace() is a log function where you can go overboard. Add the trace function everywhere. When turned on, extensive logging will take place. Use this for testing and not everyday debugging.
+    ### Trace() is a log function where you can go overboard. 
+	#           Add the trace function everywhere. 
+	#           When turned on, extensive logging will take place. 
+	#           Use this for testing and not everyday debugging.
     public function Trace( $item )
     {
         if( TraceMode === TRUE){

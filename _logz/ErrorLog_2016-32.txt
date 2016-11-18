@@ -1,6 +1,0 @@
-Tue 09 11:18:03 [::1] [WARN] This is a normal Error!
-Tue 09 11:18:51 [::1] [WARN] This is a normal Error!
-Tue 09 11:26:46 [127.0.0.1] [WARN] This is a normal Error!
-Tue 09 11:26:46 [127.0.0.1] [WARN] This is a normal Error!
-Tue 09 11:28:36 [127.0.0.1] [WARN] This is a normal Error!
-Tue 09 11:35:18 [127.0.0.1] [WARN] This is a normal Error!

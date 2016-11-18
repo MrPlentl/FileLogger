@@ -11,7 +11,7 @@
 # Revisions:
 
 
-$file='./_logz/usertracks/127.0.0.1_150507.txt';
+$file= file_get_contents('./_logz/usertracks/127.0.0.1_160422.txt');
 $lastpos = 0;
 while (true) {
     usleep(300000); //0.3 s

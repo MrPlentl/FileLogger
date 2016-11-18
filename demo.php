@@ -46,7 +46,7 @@ $log->SQLHistoryLog("SELECT * FROM mytable where field=7");
     <input type="button" id="test_button" name="test_button" value="MyButton"  />
     <input type="text" id="test_text" name="fName" placeholder="Log will track this" />
     <input type="text" id="X_test_text" name="X_test_text" placeholder="Log will not track this item" />
-    <input type="text" id="CCnum" name="CCnum" placeholder="CCnum will not be tracked" />
+    <input type="text" id="CCnum" name="CCnum" placeholder="Log will not track this item" />
     <input type="checkbox" name="checkbox1" id="checkbox1" value="Checkbox 1" />Mail me more info<br />
     <input type="radio" name="radio1" id="Myradio1" value="Radio 1" />Radio 1<input type="radio" name="radio1" id="Myradio2" value="Radio 2" />Radio 2<br />
     <select name="countries" id="countries">
@@ -74,3 +74,4 @@ $log->SQLHistoryLog("SELECT * FROM mytable where field=7");
 <?php $log->Trace(6); ?>
 </body>
 </html>
+ 
