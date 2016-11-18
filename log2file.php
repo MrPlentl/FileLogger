@@ -10,7 +10,7 @@
 * Revisions:       1.00  05/07/15 (bp) First Release
 *************************************************************/
 
-require_once("log2file_config.php");
+require_once("__config.php");
 ### Included in log2file_config.php
 //define("Log_Path",              "./_logz");
 //define("Sql_Log_Path",          "./_logz");
