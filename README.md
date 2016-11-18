@@ -5,7 +5,7 @@
 I'm always adding new stuff. Though everything checked in should work... theoretically.
 
 SETUP
-### Included in log2file_config.php
+### Included in __config.php
 define("Log_Path",              "./_logz");
     == Location of the General Log files
 define("Sql_Log_Path",          "./_logz");
