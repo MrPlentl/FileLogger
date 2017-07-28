@@ -13,7 +13,6 @@
 *************************************************************/
 
 require_once("log2file.php");
-require_once("mail.php");
 
 $log = new log2file();
 

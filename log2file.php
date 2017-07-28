@@ -65,7 +65,11 @@ class log2file
         // The Collect All history log. Every log call will be written to this file
         $filePathGen  = sprintf("%s/HistoryLog_%s.txt", Log_Path, date("ymd") );   // Log_Path defined in log2file_config.php
         $file_res = fopen($filePathGen, "a");
-        fwrite($file_res, sprintf("%s [%s] %s\r\n", date("H:i:s"), $_SERVER['REMOTE_ADDR'], $item));
+
+        // In the case that you might be running localhost, REMOTE_ADDR returns ::1 and causes issues
+        $ip_address = ($_SERVER['REMOTE_ADDR'] == '::1') ? "127.0.0.1" : $_SERVER['REMOTE_ADDR'];
+
+        fwrite($file_res, sprintf("%s [%s] %s\r\n", date("H:i:s"), $ip_address, $item));
         fclose($file_res);
 
         // If available, add the History note item to the Usertrack log as well
@@ -81,8 +85,13 @@ class log2file
         if (file_exists(Usertrack_Log_Path) == FALSE) {
             mkdir(Usertrack_Log_Path, 0700, TRUE);
         }
+
+        // In the case that you might be running localhost, REMOTE_ADDR returns ::1 and causes issues
+        $ip_address = ($_SERVER['REMOTE_ADDR'] == '::1') ? "127.0.0.1" : $_SERVER['REMOTE_ADDR'];
+
         // The Collect All history log. Every log call will be written to this file
-        $filePathGen  = sprintf("%s/%s_%s.txt", Usertrack_Log_Path, $_SERVER['REMOTE_ADDR'], date("ymd") );   // File Name Example: 127.0.0.1_140919.txt
+        $filePathGen  = sprintf("%s/%s_%s.txt", Usertrack_Log_Path, $ip_address, date("ymd") );   // File Name Example: 127.0.0.1_140919.txt
+
         $file_res = fopen($filePathGen, "a");
         fwrite($file_res, sprintf("%s %s\r\n", date("H:i:s"), $item));   // 11:42:34 This is an item to log
         fclose($file_res);
@@ -101,7 +110,11 @@ class log2file
 
         $filePathGen  = sprintf("%s/ErrorLog_%s.txt", Log_Path, date("Y") . "-" . date("W"));   // THis is currently a WEEKLY Log file
         $file_res = fopen($filePathGen, "a");
-        fwrite($file_res, sprintf("%s [%s] %s %s\r\n", date("D d H:i:s"), $_SERVER['REMOTE_ADDR'], $error_level, $item));
+
+        // In the case that you might be running localhost, REMOTE_ADDR returns ::1 and causes issues
+        $ip_address = ($_SERVER['REMOTE_ADDR'] == '::1') ? "127.0.0.1" : $_SERVER['REMOTE_ADDR'];
+
+        fwrite($file_res, sprintf("%s [%s] %s %s\r\n", date("D d H:i:s"), $ip_address, $error_level, $item));
         fclose($file_res);
 
         // Write entry to History Log
