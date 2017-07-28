@@ -12,9 +12,9 @@
 * Revisions:      
 *************************************************************/
 
-require_once("log2file.php");
+require_once("Log2File.class.php");
 
 if(isset($_GET['history_log'])&&$_GET['history_log']!="") {
-    $log = new log2file();
+    $log = new Log2File();
     $log->History($_GET['history_log']);
 }

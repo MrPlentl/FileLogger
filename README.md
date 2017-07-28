@@ -1,8 +1,8 @@
 # FileLogger
 ### Cause sometimes I just need a File Logging Solution
 
-### Out of the box, just add a require path to the log2file.php file
-require_once("FileLogger/log2file.php");
+### Out of the box, just add a require path to the Log2File.class.php file
+require_once("FileLogger/Log2File.class.php");
 
 ### Always Under Development
 I'm always adding new stuff. Though everything checked in should work... theoretically.

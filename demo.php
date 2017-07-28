@@ -12,10 +12,9 @@
 * Revisions:      
 *************************************************************/
 
-require_once("log2file.php");   // Contains all the main logging functions
-require_once("mail.php");       // Contains the email alert functions
+require_once("Log2File.class.php");   // Contains all the main logging functions
 
-$log = new log2file();
+$log = new Log2File();
 
 //$mail = new mail();
 //$mail->send_error_email("Last Test","This is the last test to Webmaster");

@@ -32,7 +32,7 @@ require_once("__config.php");
 // function ErrorSessionLog();
 // function send_error_notification()
 
-class log2file
+class Log2File
 {
     protected function Create_htaccess()
     {
