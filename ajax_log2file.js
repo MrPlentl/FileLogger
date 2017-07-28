@@ -4,7 +4,7 @@
 
 $( document ).ready(function() {
     // Initial Ajax Setup
-    $.ajaxSetup({ url: "./FileLoggingClass/ajax_log2file_response.php",  type: "GET" });
+    $.ajaxSetup({ url: "/FileLoggerBasic/ajax_log2file_response.php",  type: "GET" });
 
     // Log all Text box entries
 

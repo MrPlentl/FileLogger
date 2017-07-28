@@ -2,25 +2,30 @@
 ### Cause sometimes I just need a File Logging Solution
 
 ### Out of the box, just add a require path to the Log2File.class.php file
-require_once("FileLogger/Log2File.class.php");
+* require_once("FileLoggerBasic/Log2File.class.php");
+* NOTE: jQuery is REQUIRED for the front end logging
 
-### Always Under Development
-I'm always adding new stuff. Though everything checked in should work... theoretically.
+
+
+### Under Development
+I'm working on the final version of this simple Logger
 
 SETUP
 ### Included in __config.php
-define("Log_Path",              "./_logz");
-    == Location of the General Log files
-define("Sql_Log_Path",          "./_logz");
-    == Location of the SQL Log files
-define("Usertrack_Log_Path",    "./_logz/usertracks");
-    == Location of the Usertrack files
-define("Util_Log_Path",         "./_logz");
-    == Location of the Utility Log files
-define("TraceMode",             1);	          //0: Trace() deactivated; 1: Trace() activiated
-    == Turn on Trace mode when debugging. This will make use of the Trace function
-define("Usertrack_Available",   1);	          //0: Trace() deactivated; 1: Trace() activiated
-    == When Usertrack is turned on, additional individual ip_address logging will occur
+The following Log paths can be set to Absolute Paths so you can set the path outside of the Site for security
+Currently using .htaccess to block people
+* define("Log_Path",              "../_logs");                // General Log directory
+* define("Sql_Log_Path",          "../_logs");                // This is just for the separate log file for SQL transactions. Normally this is for INSERTS and UPDATES
+* define("Usertrack_Log_Path",    "../_logs/usertracks");     // Usertrack_Log() creates a daily log for each user
+* define("Util_Log_Path",         "../_logs");                // UtilLog() gives the logging ability for Commandline Utility Scripts/Programs; Not meant to be used from the Browser
+
+
+### Special Features ###
+* Trace Mode is great for expansive logging that you might want to turn on and off from time to time without writing and deleting code
+define("TraceMode",             TRUE);	          //FALSE: Trace() deactivated; TRUE: Trace() activated
+
+* User tracks are for logging specific users. When set to TRUE, users will have their own log file along with the History log.
+define("Usertrack_Available",   TRUE);	          //FALSE: Usertrack log deactivated; TRUE: Usertrack log activated
 
 # Method List ###
 function History( $item );

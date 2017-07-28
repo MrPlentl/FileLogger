@@ -1,6 +1,6 @@
 <?php
 /*************************************************************
-* File:        tester.php   
+* File:           demo.php
 * Current Ver:     
 * Function:       
 * Author:         Brandon Plentl (bp)
@@ -12,17 +12,19 @@
 * Revisions:      
 *************************************************************/
 
+### THIS IS REQUIRED TO USE THIS LOGGING CLASS
 require_once("Log2File.class.php");   // Contains all the main logging functions
 
 $log = new Log2File();
 
-//$mail = new mail();
-//$mail->send_error_email("Last Test","This is the last test to Webmaster");
-//echo "Writing Log File - LogUserAgent";
-//$log->LogUserAgent();
-//$log->History("Here is my log entry");
 
-$my_array = array('Web' => 'Brandon','Boss' => 'Daniel','Designer' => 'Jessica','Writer' => 'Sarah','Designer2' => 'Anthony');
+$my_array = array(
+    'Web' => 'Brandon',
+    'Boss' => 'Daniel',
+    'Designer' => 'Jessica',
+    'Writer' => 'Sarah',
+    'Designer2' => 'Anthony'
+);
 
 $log->DumpArrayToLog($my_array);
 
@@ -35,7 +37,7 @@ $log->SQLHistoryLog("SELECT * FROM mytable where field=7");
 <?php $log->Trace(1); ?>
 <html>
 <head>
-    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="ajax_log2file.js"></script>
 </head>
 <body>
@@ -61,16 +63,6 @@ $log->SQLHistoryLog("SELECT * FROM mytable where field=7");
     <input type="submit" id="submit" name="submit" value="submit" />
 </form>
 <?php $log->Trace(5); ?>
-<script type="text/javascript">
-    //    $( "input[type=text]" ).blur(function(){
-    //        var log;
-    //        log = "LOGGING" + $(this).attr('id') + " = " + $(this).val();
-    //        alert(log);
-    //    });
-
-    //$( "input[type=button]" ).click(function(){ alert("Button Clicked: "+$(this).val()); });
-</script>
 <?php $log->Trace(6); ?>
 </body>
 </html>
- 
